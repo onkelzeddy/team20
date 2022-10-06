@@ -103,6 +103,10 @@
 |||||
 
 1. # **Введение**
+
+Это пример изменения
+
+
 *[The introduction of the **Software Requirements Specification (SRS)** should provide an overview of the entire **SRS**. It should include the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the **SRS**.]*
 
 *[Note: The Software Requirements Specification (**SRS**) captures the complete software requirements for the system, or a portion of the system. This document describes a typical **SRS** outline for a project using only traditional natural-language style requirements – with **no use-case modelling.**.]*
